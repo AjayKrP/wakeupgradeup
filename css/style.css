@@ -928,10 +928,6 @@ h5,
   position: relative;
 }
 
-.col-12.banner-content {
-  margin-top: -100px !important;
-}
-
 .intro-section,
 .intro-section .container>.row {
   height: 100vh;
