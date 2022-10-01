@@ -976,11 +976,14 @@ h5,
 
 @media (max-width: 768px) {
   .intro-section h1 {
-    font-size: 2rem !important;
+    font-size: 1.7rem !important;
   }
-  .section-text {
+  .mb-4.secton-text {
+    top: 75px;
+  }
+
+  .section-form {
     margin-top: 50px;
-    margin-bottom: -2rem !important;
   }
 }
 
