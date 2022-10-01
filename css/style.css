@@ -973,6 +973,17 @@ h5,
   }
 }
 
+
+@media (max-width: 768px) {
+  .intro-section h1 {
+    font-size: 2rem !important;
+  }
+  .section-text {
+    margin-top: 50px;
+    margin-bottom: 0px !important;
+  }
+}
+
 .slide-1 {
   background-size: cover;
   background-position: center;
