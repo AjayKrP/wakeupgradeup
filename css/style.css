@@ -985,6 +985,9 @@ h5,
   .section-form {
     margin-top: 50px;
   }
+  .section-subtitle {
+    font-size: 1.5rem;
+  }
 }
 
 .slide-1 {
