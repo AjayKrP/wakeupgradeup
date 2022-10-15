@@ -7,7 +7,7 @@
 
 
 ### Hello world program in python, comment example
-```
+```python
 # this is single line comment
 
 """
